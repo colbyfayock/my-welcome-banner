@@ -1,0 +1,240 @@
+[
+  {
+    "id": "cG9zdDo4OTA=",
+    "title": "How to Programmatically Upload Images to Cloudinary in React & Next.js",
+    "slug": "how-to-programmatically-upload-images-to-cloudinary-in-react-next-js",
+    "excerpt": "<p>Image and asset managers like Cloudinary give you a lot of power in being able to automatically optimize and transform images, but when building an app, you can&#8217;t expect each user to upload manually in your dashboard. How can you share that power and give your visitors the ability to upload their own images from&hellip;</p>\n",
+    "date": "2021-11-23T15:50:17",
+    "categories": [
+      {
+        "id": "dGVybToxMw==",
+        "name": "Media"
+      },
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo4NDA=",
+    "title": "How to Create Thumbnail Images Using Face Detection with Cloudinary",
+    "slug": "how-to-create-thumbnail-images-using-face-detection-with-cloudinary",
+    "excerpt": "<p>Creating a gallery of images on a page can be trivial, but what if you don&#8217;t have control over how the images are created? Ending up with different sizes and formats can turn a good looking gallery into a mess. Instead, we can use Cloudinary image transformations and Face Detection to make sure we&#8217;re always&hellip;</p>\n",
+    "date": "2021-11-10T16:30:50",
+    "categories": [
+      {
+        "id": "dGVybToxMw==",
+        "name": "Media"
+      },
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo4MTA=",
+    "title": "How to Schedule Daily Email Reports with GitHub Actions, Gmail, & Cron",
+    "slug": "how-to-schedule-daily-email-reports-with-github-actions-gmail-cron",
+    "excerpt": "<p>GitHub Actions are a great way to automate our daily code tasks, but what about that report you have to generate every day for your boss&#8217;s boss? How can we use GitHub actions and cron to generate and email a daily report? What are GitHub Actions? GitHub Actions are configurable tasks that run a set&hellip;</p>\n",
+    "date": "2021-10-26T15:16:20",
+    "categories": [
+      {
+        "id": "dGVybTo5",
+        "name": "Automation"
+      },
+      {
+        "id": "dGVybTo4",
+        "name": "GitHub Actions"
+      },
+      {
+        "id": "dGVybToxMQ==",
+        "name": "node.js"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo3OTM=",
+    "title": "How to Create CSS Custom Properties That Dynamically Update with React & JavaScript",
+    "slug": "how-to-create-css-custom-properties-that-dynamically-update-with-react-javascript",
+    "excerpt": "<p>CSS variables have been around with tools like Sass, but only recently have they become native to CSS. Now that we have them available right in our browsers, how can we use JavaScript and tools like React to dynamically update the values? What are CSS Custom Properties? tl;dr they&#8217;re variables! They&#8217;re the CSS Spec&#8217;s way&hellip;</p>\n",
+    "date": "2021-10-20T13:26:55",
+    "categories": [
+      {
+        "id": "dGVybToyMA==",
+        "name": "CSS"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo3Nzk=",
+    "title": "How to Export Sass Variables to JavaScript with Next.js",
+    "slug": "how-to-export-sass-variables-to-javascript-with-next-js",
+    "excerpt": "<p>Building web apps with Sass helps to give you CSS superpowers, but it&#8217;s another tool where you typically have to manage another set of configurations and settings outside of JavaScript. How can we make both Sass and a Next.js JavaScript app play nicely so we only have to define those configurations in one spot? What&hellip;</p>\n",
+    "date": "2021-10-12T13:21:31",
+    "categories": [
+      {
+        "id": "dGVybToyMA==",
+        "name": "CSS"
+      },
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybToxOQ==",
+        "name": "Sass & SCSS"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo3NjA=",
+    "title": "How to Create Pages in Next.js with Static & Dynamic Data",
+    "slug": "how-to-create-pages-in-next-js-with-static-dynamic-data",
+    "excerpt": "<p>Next.js is a powerful web framework that allows developers to easily spin up new React applications, but what if we want to add data to our pages? We&#8217;ll look at how we can use the Next.js data fetching APIs to create both static and dynamic pages. Why is creating pages important in React? Before we&hellip;</p>\n",
+    "date": "2021-10-01T15:59:53",
+    "categories": [
+      {
+        "id": "dGVybTo3",
+        "name": "Jamstack"
+      },
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo3NDI=",
+    "title": "How to Use the GitHub GraphQL API to Add Your Pinned Repositories In Next.js & React",
+    "slug": "how-to-use-the-github-graphql-api-to-add-your-pinned-repositories-in-next-js-react",
+    "excerpt": "<p>OSS projects can be hard work and when you&#8217;re spending your time working on them, you want to be able to proudly display those projects. While GitHub has a Pinned mechanism, you would need a custom solution to do the same for your own website. How can we instead use the GitHub GraphQL API to&hellip;</p>\n",
+    "date": "2021-09-21T02:28:23",
+    "categories": [
+      {
+        "id": "dGVybTo1",
+        "name": "GraphQL"
+      },
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo3MTE=",
+    "title": "How to Add a Dynamic Table of Contents to Static HTML in React with Rehype",
+    "slug": "how-to-add-a-dynamic-table-of-contents-to-static-html-in-react-with-rehype",
+    "excerpt": "<p>It&#8217;s common to see content managed in a headless CMS available as static HTML, which in the land of JavaScript frameworks can seem somewhat limiting. How can we process and transform that HTML ourselves with tools like rehype, providing a richer experience for our visitors? Why do we want to process HTML? Often when we&#8217;re&hellip;</p>\n",
+    "date": "2021-09-09T02:23:04",
+    "categories": [
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybToxMQ==",
+        "name": "node.js"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo2ODA=",
+    "title": "How to Add Custom Dynamic Favicons in React & Next.js",
+    "slug": "how-to-add-custom-dynamic-favicons-in-react-next-js",
+    "excerpt": "<p>Browsers ship with a ton of ways to make your web app your own. With CSS, HTML, and JavaScript, we can do whatever we want within the walls of the browser tab. But it doesn&#8217;t include a ton of ways to customize the outside of that experience except tools like favicons, which are almost as&hellip;</p>\n",
+    "date": "2021-09-01T01:44:00",
+    "categories": [
+      {
+        "id": "dGVybToz",
+        "name": "Next.js"
+      },
+      {
+        "id": "dGVybTo2",
+        "name": "React"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  },
+  {
+    "id": "cG9zdDo2NjI=",
+    "title": "How to Use Puppeteer to Automate Chrome in an API with Netlify Serverless Functions",
+    "slug": "how-to-use-puppeteer-to-automate-chrome-in-an-api-with-netlify-serverless-functions",
+    "excerpt": "<p>Automation typically includes purely code-based tasks that don&#8217;t even think about a browser, but some tasks need to interact and use the browser as a human would like performing a search on a site. How can we leverage tools that can automate the browser and pack it into a serverless API endpoint to make easily&hellip;</p>\n",
+    "date": "2021-08-26T15:40:28",
+    "categories": [
+      {
+        "id": "dGVybTo5",
+        "name": "Automation"
+      },
+      {
+        "id": "dGVybToxMA==",
+        "name": "Host & Deploy"
+      },
+      {
+        "id": "dGVybToxMQ==",
+        "name": "node.js"
+      },
+      {
+        "id": "dGVybTox",
+        "name": "Tutorials"
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+.container {
+  display: grid;
+  grid-template-rows: 1fr auto;
+  max-width: 80rem;
+  min-height: 100vh;
+  padding: 0 2rem;
+  margin: 0 auto;
+}
+
+.main {
+  padding: 0 0 2rem;
+}
+
+.title {
+  font-size: 4.5rem;
+  font-weight: 900;
+  line-height: 1.15;
+  margin: 4rem 0;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  padding: 2rem 0;
+  border-top: 1px solid #eaeaea;
+  justify-content: center;
+  align-items: center;
+}
+
+.signup {
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  color: white;
+  border-radius: .4em;
+  background-color: blueviolet;
+  padding: 2em;
+  margin: 3rem 0;
+
+  h2 {
+    font-size: 1.8em;
+    margin: 0;
+  }
+
+  a {
+    display: inline-block;
+    color: blueviolet;
+    font-size: 1.4em;
+    font-weight: 900;
+    background: white;
+    padding: .6em 1em;
+    border: none;
+    border-radius: .2em;
+  }
+
+}
+
+.signupBody {
+
+  p {
+    margin-top: .2em;
+    margin-bottom: 0;
+  }
+
+}
+
+.signupCta {
+
+  display: flex;
+  align-items: center;
+  margin-left: 2em;
+
+  p {
+    margin: 0;
+  }
+
+}
+
+.signupHide {
+  position: absolute;
+  top: 0;
+  right: 0;
+  color: white;
+  background: none;
+  padding: .5em .8em;
+  border: none;
+  cursor: pointer;
+}
+
+.posts {
+
+  font-size: 1.2em;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+
+  li {
+
+    margin-bottom: 3em;
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+
+  }
+
+  a {
+
+    color: inherit;
+
+    &:hover {
+
+      h3 {
+        color: #0070f3;
+        text-decoration: underline;
+      }
+
+    }
+
+  }
+
+}
+
+.postTitle {
+  font-size: 1.4em;
+  font-weight: 700;
+  margin-bottom: .4em;
+}
+
+.postDate {
+  font-size: .8em;
+  color: gray;
+  margin: .6em 0;
+}
+
+.postExcerpt {
+
+  p {
+    margin: 0;
+  }
+
+}
