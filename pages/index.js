@@ -9,6 +9,11 @@ export default function Home() {
   const [showBanner, setShowBanner] = useState(true);
 
   useEffect(() => {
+    const data = window.localStorage.getItem('MY_APP_STATE');
+    if ( data !== null ) setShowBanner(JSON.parse(data));
+  }, []);
+
+  useEffect(() => {
     window.localStorage.setItem('MY_APP_STATE', JSON.stringify(showBanner));
   }, [showBanner]);
 
