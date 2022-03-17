@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useState, useEffect } from 'react';
 import Head from 'next/head'
 
 import styles from '../styles/Home.module.scss'
@@ -7,6 +7,11 @@ import posts from '../data/posts.json';
 
 export default function Home() {
   const [showBanner, setShowBanner] = useState(true);
+
+  useEffect(() => {
+    window.localStorage.setItem('MY_APP_STATE', JSON.stringify(showBanner));
+  }, [showBanner]);
+
   return (
     <div className={styles.container}>
       <Head>
