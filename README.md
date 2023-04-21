@@ -1,9 +1,17 @@
-# Demo Welcome Banner Starter
+# Save State to LocalStorage & Persist on Refresh with React.js
 
-## ⚡️ Quick Start
+Demo for tutorial [How to Save State to LocalStorage & Persist on Refresh with React.js](https://www.youtube.com/watch?v=rWfhwW9forg)
 
-```bash
-yarn create next-app -e https://github.com/colbyfayock/demo-welcome-banner-starter
-# or
-npx create-next-app -e https://github.com/colbyfayock/demo-welcome-banner-starter
-```
+📝 Article: https://spacejelly.dev/posts/how-to-save-state-to-localstorage-persist-on-refresh-with-react-js/
+
+📺 YouTube: https://www.youtube.com/watch?v=rWfhwW9forg
+
+🚀 Demo: https://my-welcome-banner.netlify.app/
+
+## More tutorials and walkthroughs
+
+🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+
+📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+
+✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
