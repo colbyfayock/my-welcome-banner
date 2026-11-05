@@ -10,6 +10,8 @@ export default function Home() {
 
   useEffect(() => {
     const data = window.localStorage.getItem('MY_APP_STATE');
+    // Read after hydration so server and browser initially render the same markup.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
     if ( data !== null ) setShowBanner(JSON.parse(data));
   }, []);
 
